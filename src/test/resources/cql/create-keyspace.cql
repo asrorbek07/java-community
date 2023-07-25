@@ -1,0 +1,1 @@
+CREATE KEYSPACE IF NOT EXISTS "java_community" WITH replication = {'class':'NetworkTopologyStrategy','datacenter1':1};
